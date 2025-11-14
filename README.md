@@ -26,6 +26,8 @@ These conditions continuously change:
 To manage this, utilities deploy **real-time impedance estimation systems**.
 
 ---
+<img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/42ee8a87-595b-4256-bd9e-6747ba1b07c9" />
+
 
 # 2. Why Real-Time Line Impedance Matters
 
